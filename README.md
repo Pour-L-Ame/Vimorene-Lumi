@@ -50,7 +50,7 @@
     <li>Инструкции по сборке и подключению</li>
   </ul>
 
-  <p>Ссылка на GitHub: <a href="https://github.com/ваш-проект" target="_blank">Перейти к проекту</a></p>
+   Для настройки WiFi смотрите [INSTRUCTION_WiFi.md](INSTRUCTION_WiFi.md) 
 
 </body>
 </html>
