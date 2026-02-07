@@ -1,48 +1,5 @@
 # Vimorene-Lumi
-What you see here is an indicator of the concentration of carbon dioxide (CO₂) in a room.
-CO₂ Room Indicator
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>CO₂ Room Indicator</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-    ul {
-      margin: 0 0 20px 20px;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>CO₂ Room Indicator</h1>
 
